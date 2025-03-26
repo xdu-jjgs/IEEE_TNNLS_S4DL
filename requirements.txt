@@ -1,0 +1,17 @@
+matplotlib
+numpy>=1.26
+scipy>=1.7
+yaml>=0.2.5
+pyyaml>=6.0
+torch>=2.5
+pillow>=11.0
+tqdm
+typing
+tllib>=0.4
+torchvision>=0.20
+tensorboardx>=2.6
+sklearn>=0.0
+scikit-learn
+fvcore
+pytorchcv>=0.0.67
+yacs
